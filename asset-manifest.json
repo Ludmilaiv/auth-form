@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/auth-form/static/css/main.7252f0b3.css",
+    "main.js": "/auth-form/static/js/main.43fb30a3.js",
+    "static/js/787.a569f490.chunk.js": "/auth-form/static/js/787.a569f490.chunk.js",
+    "static/media/fon.jpg": "/auth-form/static/media/fon.3485e69ed68b7716af8b.jpg",
+    "static/media/Caveat-Regular.ttf": "/auth-form/static/media/Caveat-Regular.6dbd24b1f531c1b958f0.ttf",
+    "static/media/Roboto-Regular.ttf": "/auth-form/static/media/Roboto-Regular.03523cf578d69fa92322.ttf",
+    "static/media/FuturaNewExtraBold-Reg.ttf": "/auth-form/static/media/FuturaNewExtraBold-Reg.4d6768ed17fec1cdecba.ttf",
+    "static/media/FuturaNewLight-Reg.ttf": "/auth-form/static/media/FuturaNewLight-Reg.8f36671fa8f96c4a1a07.ttf",
+    "index.html": "/auth-form/index.html",
+    "main.7252f0b3.css.map": "/auth-form/static/css/main.7252f0b3.css.map",
+    "main.43fb30a3.js.map": "/auth-form/static/js/main.43fb30a3.js.map",
+    "787.a569f490.chunk.js.map": "/auth-form/static/js/787.a569f490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7252f0b3.css",
+    "static/js/main.43fb30a3.js"
+  ]
+}
