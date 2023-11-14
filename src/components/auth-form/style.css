@@ -1,0 +1,103 @@
+.auth-form-page {
+	padding: 5px;
+}
+
+.form {
+	margin: 10vh auto;
+	max-width: 779px;
+	width: 100%;
+	background: #FFFFFF;
+	border-radius: 40px;
+	padding: 48px 165px 60px 165px;
+}
+
+.form__head {
+	font-family: FuturaNew;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 48px;
+	line-height: 61px;
+	color: #314F8A;
+	text-align: center;
+	display: block;
+	padding-bottom: 8px;
+}
+
+.form__label {
+	font-family: FuturaNew;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 117.1%;
+	letter-spacing: 0.035em;
+	color: #838389;
+	padding-left: 20px;
+	padding-bottom: 8px;
+	display: block;
+}
+
+.form__input,
+.form__button {
+	outline: none;
+	width: 100%;
+}
+
+.form__input {
+	box-sizing: border-box;
+	height: 46px;
+	background: #FFFFFF;
+	border: 2px solid rgba(83, 72, 117, 0.6);
+	border-radius: 38px;
+  padding-left: 20px;
+	padding-right: 20px;
+}
+
+.form__err input {
+	background: #ffb0b0a2;
+	border: 2px solid rgba(219, 21, 21, 0.6);
+}
+
+.form__error-message {
+  display: block;
+  height: 1.5em;
+	color: rgba(219, 21, 21, 0.6);
+}
+
+.form__button {
+	font-family: FuturaNew;
+	padding: 8px;
+	background: #FFDC40 !important;
+	font-style: normal;
+	font-size: 24px;
+	line-height: 30px;
+	color: #323557;
+	box-shadow: -2px 4px 0px #DB994B, 2px 4px 0px #DB994B;
+	border-radius: 42px;
+	margin-top: 32px;
+	cursor: pointer;
+	border: none !important;
+}
+
+.form__button:hover {
+	background: #F0CE34 !important;
+}
+
+@media all and (max-width: 790px) {
+	.form {
+		margin: 5px 0;
+		padding: 48px 100px;
+	}
+}
+
+@media all and (max-width: 540px) {
+	.form {
+		margin: 5px 0;
+		padding: 48px 50px;
+	}
+}
+
+@media all and (max-width: 320px) {
+	.form {
+		margin: 5px 0;
+		padding: 48px 10px;
+	}
+}
